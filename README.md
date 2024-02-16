@@ -42,6 +42,9 @@ localhost:3000
 
 This project is deployed to https://flashcards-7zapgqmhe-pedro-souzas-projects-608e0ba6.vercel.app/ whenever the default branch is updated.
 
+![image](https://github.com/phrsouza/flashcards/assets/2446492/76b8670b-811b-4829-b314-d13b3f015871)
+
+
 ## License
 
 This project is licensed under [MIT License](https://opensource.org/licenses/MIT).
